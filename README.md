@@ -37,6 +37,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License] (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## *About Me
+## About Me
 
 Hi there! I'm **Mrigendra Hansdah**. I'm an IIT Guwahati student passing out in 2026. I am learning from 'Data with Baraa' on how to make an SQL project.
